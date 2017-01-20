@@ -49,6 +49,6 @@
     "nativescript-dev-typescript": "^0.3.2",
     "tslint": "^3.14.0",
     "typescript": "^2.0.10",
-    "zone.js": "~0.7.2"
+    "zone.js": "0.7.2"
   }
 }

@@ -1,0 +1,9 @@
+@import url("~/platform.css");
+Page {
+  background-color: white;
+  font-size: 8;
+}
+TextField {
+  padding: 8;
+  font-size: 7;
+}
