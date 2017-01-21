@@ -7,3 +7,10 @@ TextField {
   padding: 8;
   font-size: 7;
 }
+
+.small-spacing {
+  margin: 2;
+}
+.medium-spacing {
+  margin: 4;
+}
