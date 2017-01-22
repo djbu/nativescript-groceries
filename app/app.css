@@ -1,16 +1,19 @@
 @import url("~/platform.css");
 Page {
   background-color: white;
-  font-size: 8;
+  font-size: 15;
+}
+ActionBar {
+  background-color: black;
+  color: white;
 }
 TextField {
-  padding: 8;
-  font-size: 7;
+  padding: 10;
+  font-size: 13;
 }
-
 .small-spacing {
-  margin: 2;
+  margin: 5;
 }
 .medium-spacing {
-  margin: 4;
+  margin: 10;
 }
